@@ -25,5 +25,17 @@
     "razorpay": "^2.9.6",
     "socket.io": "^4.8.1",
     "stripe": "^14.25.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiSkandhan/ProteinGrubHub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SaiSkandhan/ProteinGrubHub/issues"
+  },
+  "homepage": "https://github.com/SaiSkandhan/ProteinGrubHub#readme"
 }

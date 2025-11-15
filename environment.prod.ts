@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://api.proteingrubhub.com/api' // Your production API URL
+  apiUrl: 'https://proteingrubhub.onrender.com/api' // Your production API URL
 };
