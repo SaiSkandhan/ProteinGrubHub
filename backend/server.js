@@ -18,7 +18,7 @@ const io = new Server(server, {
             'http://localhost:4200',
             'http://localhost:4201',
             'http://localhost:52023',
-            'https://proteingrubhub.vercel.app'
+            'https://proteinsgrubhub.vercel.app'
         ],
         credentials: true
     }
@@ -37,7 +37,7 @@ app.use(cors({
         'http://localhost:4200',
         'http://localhost:4201',
         'http://localhost:52023',
-        'https://proteingrubhub.vercel.app'
+        'https://proteinsgrubhub.vercel.app'
     ],
     credentials: true
 }));
